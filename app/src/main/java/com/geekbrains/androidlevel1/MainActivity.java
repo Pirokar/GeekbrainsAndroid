@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setCheckboxBehavior();
     }
 
+    //Давайте методам и переменным нормальные имена
     private void initViews() {
         textView = findViewById(R.id.textView);
         imageView = findViewById(R.id.imageView);
