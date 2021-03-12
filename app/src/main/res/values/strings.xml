@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLevel1</string>
+    <string name="hello_world">Hello world</string>
+    <string name="new_text">Новый текст</string>
+    <string name="option_1">Опция 1</string>
+    <string name="press_me">Нажми меня</string>
+    <string name="is_it_lesson_ok">Понятен ли был вам урок?</string>
+</resources>
